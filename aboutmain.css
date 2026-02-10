@@ -1,0 +1,26 @@
+.h2mainabout {
+  text-align: center;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 100px;
+}
+section {
+  padding: 30px;
+}
+button {
+  padding: 10px 30px;
+  font-weight: 900;
+  margin: 7px;
+  border-radius: 5px;
+}
+.deepintro {
+  text-align: center;
+}
+.moreintro {
+  display: grid;
+  padding: 10px 30px;
+  margin: 20px;
+  border-radius: 5px;
+}

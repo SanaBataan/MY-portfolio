@@ -1,0 +1,34 @@
+.h1pro {
+  text-align: center;
+}
+.projectimg {
+  height: 300px;
+  width: 600px;
+}
+.secpro {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 50px;
+}
+.am-cl-pr {
+  text-align: center;
+}
+.plink {
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+}
+/* project 2 */
+
+.projectimg2 {
+  height: 300px;
+  width: 600px;
+}
+.am-cl-pr2 {
+  text-align: center;
+}
+.plink2 {
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+}
